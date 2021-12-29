@@ -1,10 +1,4 @@
-### Bem vindo 😁
-
-Eae, beleza? Eu me chamo Alisson e aqui abaixo vc saberá um pouco sobre mim:
-
--  🖥 Estudo: HTML e CSS 
--  🤓 Aprendendo: trabalhar com o wordprees 
-      e bootstrap
+### Eae, beleza? Meu nome é Alisson Soares, e eu estou aprendendo a programar! 👨🏻‍💻
       
 <div align="center">
   <a href="https://github.com/projetos-Alisson">
@@ -14,13 +8,12 @@ Eae, beleza? Eu me chamo Alisson e aqui abaixo vc saberá um pouco sobre mim:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ali-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ali-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Ali-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ali-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ali-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ali-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ali-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- 
+  <img align="right"  alt="foto-anime" height="150" style="border-radius:50px;"
+  src="https://user-images.githubusercontent.com/79875609/147617439-49b01216-b880-4eca-916b-6da2ae82359a.png">
+                                                                                     
 </div>
       
  ##
