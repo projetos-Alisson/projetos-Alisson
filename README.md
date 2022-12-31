@@ -1,5 +1,26 @@
-### Eae, beleza? Meu nome é Alisson Soares, e eu estou aprendendo a programar! 👨🏻‍💻
+
+   
+<!DOCTYPE html>
+<body>
+<a  align="center" href="https://fontmeme.com/pt/fonte-de-grand-theft-auto/"><img src="https://fontmeme.com/permalink/221230/c50010ead35e08610eaedf4b06ef37e8.png" alt="fonte-de-grand-theft-auto" border="0"></a>
+      ────────────────────────────────────────────────────────────────────────────────
       
+<br>
+      
+Hello, how are you? ✋🏻 
+My name is Alisson Soares, and i'm a computer student for web development, at Etec Maria Cristina Medeiros school! 😊💻
+<div align="center">
+    <img src="https://tenor.com/pt-BR/view/shintaro-kisaragi-anime-boy-computer-bored-kagerou-project-gif-14625441">
+
+<br>
+<div>
+    
+   
+   
+   
+   
+   
+   
 <div align="center">
   <a href="https://github.com/projetos-Alisson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=projetos-Alisson&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
